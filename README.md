@@ -49,7 +49,7 @@ temperature-conversion/
 Here's how you can clone and run the project locally:
 
 1. Clone the repository: `git clone https://github.com/surajagrawal01/Temperature-Conversion.git`
-2. Navigate to the project folder: `cd Temperature-conversion`
+2. Navigate to the project folder: `cd Weather-App`
 3. Open folder in text-editor
 4. Install NodeJS, expressJS, hbs through terminal
 5. run app.js file inside src folder through terminal
