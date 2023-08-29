@@ -2,6 +2,16 @@
 
 This is a weather application that provides real-time weather information for a specified location using CityName. It is built using HTML, CSS, JavaScript, Bootstrap, Express.js, Nodemon, and Handlebars.
 
+## Table of Contents
+  
+  [Features](#features)
+  [Prerequisites](#=prerequisites)
+  [File Structure](#file-structure)
+  [Usage](#usage)
+  [Contributing](#contributing)
+  [License](#license)
+  [Contact](#contact)
+
 ## Features
 
 - Retrieve and display current weather conditions for a user-specified location.
@@ -19,4 +29,34 @@ Before you begin, ensure you have met the following requirements:
 - Install hbs (npm i hbs)
   => handleBars(hbs) can be used to render web pages to the client side from data on the server side.
 
+  ## File Structure
 
+The project structure is as follows:
+
+temperature-conversion/
+│
+├── index.html
+├── styles.css
+├── script.js
+│
+└── README.md
+
+- `index.html`: The main HTML file containing the webpage structure and user interface.
+- `styles.css`: CSS file for styling the user interface.
+- `script.js`: JavaScript file for temperature conversion logic.
+
+## Usage
+Here's how you can clone and run the project locally:
+
+1. Clone the repository: `git clone https://github.com/surajagrawal01/Temperature-Conversion.git`
+2. Navigate to the project folder: `cd Temperature-conversion`
+3. Open folder in text-editor
+4. Install NodeJS, expressJS, hbs through terminal
+5. run app.js file inside src folder through terminal
+6. In browser serach for localhost:8010
+
+
+
+## Contributing
+
+If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
